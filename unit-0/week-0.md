@@ -11,35 +11,35 @@ Rosmary Fermin
 
 * Last week’s goal - getting into the program, working on HTML and CSS
 * What went well (what goals did you meet?) - got into the progam! yay
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) - 
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) - aligning the divs. researching the issues and reviewing what i have learned allowed me to retrace my steps and find my errors.
 * What is your goal for next week? - learn the git commands
 * What do you need help with? (peers sign up to help if they can) git commands
 
-Madeln Tavarez
+Madelyn Tavarez
 
 * Last week’s goal - Getting into the program
 * What went well (what goals did you meet?) - Got into the program, i am here and excited
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) -  I could have made it on time today. I hope to manage my time wisely to make it here 5 minutes early
-* What is your goal for next week? - become unconciously compellancy in git commands
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) -  The internet kept going down which led some of us to lag behind for a few minutes
+* What is your goal for next week? - become unconciously compellent in git commands
 * What do you need help with? (peers sign up to help if they can) git commands
 
-Jannaisey
+Janneisy Vidals
 
 * Last week’s goal - Get into the program
 * What went well (what goals did you meet?) -  I got in 
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) - adding more practice to every lesson, familiarize  with technology, 
-* What is your goal for next week? - to memorize the git commands
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) - Adding more practice to every lesson, familiarize with terminology. 
+* What is your goal for next week? - To memorize the git commands
 * What do you need help with? (peers sign up to help if they can) getting to learn git
 
-Abass
+Abass Bayo-awoyemi
 
 * Last week’s goal - learn more about the program, put in effort to get in program
 * What went well (what goals did you meet?) - effort paid of since i am here!
-* What could have gone better (what were some challenges you faced? Did you overcome them? How?) - the class was a bit large and it was a little difficult for the the TA to see the people in the middle
+* What could have gone better (what were some challenges you faced? Did you overcome them? How?) - The class was a bit large and it was a little difficult for the the TA's to physically get to some of the people in the middle. difficulties using JSbin when creating website. 
 * What is your goal for next week? -  getting used to using terminal and git
-* What do you need help with? (peers sign up to help if they can) troubleshooting stuff in git 
+* What do you need help with? (peers sign up to help if they can) troubleshooting stuff in git confidently
 
-Dison
+Dison Ruan
 
 * Last week’s goal - try to learn some java
 * What went well (what goals did you meet?) - learn basic sytax of java
