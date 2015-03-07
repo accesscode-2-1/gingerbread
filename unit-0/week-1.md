@@ -66,10 +66,10 @@ Treating eachother like children is important because it would lead to developin
 Tailor your messages to others in order to affect them in a positive way. 
 
 * How does this think piece relate to access code?
-"Optimists as good things as being general,personal, permanent and negative things as being impersonal, specific and temporary."
+"Optimists see good things as being general,personal, permanent and negative things as being impersonal, specific and temporary."
 It is important to approach coding this way in order to avoid being discouraged of getting too frustrated. 
 "Optimism is what drives us forward to create and change"
-Its great to form this positive mentality you will be more open to other options and exploring and being curious about other avenues and perspectives.
+Its great to form this positive mentality you will be more open to other options, exploring and being curious about other avenues and perspectives.
 
 ### TODOs
 
