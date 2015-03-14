@@ -34,7 +34,7 @@
 * What is your goal for next week? Improve on understanding methods, loops, and pushing to Github
 * What do you need help with? (peers sign up to help if they can) I need help with understanding how to use methods and loops in my code
 
-**Janneisy*
+**Janneisy**
 
 * This week's medium post: https://medium.com/@JannaVidals/best-practices-to-tackle-problems-edc575760f70
 * Last week’s goal: Was to practice Git commands and do more excercises. 
@@ -53,9 +53,9 @@
 * What is your goal for next week?
 * What do you need help with? (peers sign up to help if they can)
 * 
-**Dison*
+**Dison**
 
-* This week's medium post: 
+* This week's medium post:  https://medium.com/@DisonRuan/which-way-10772bf26ac7
 * Last week’s goal: Learn Java
 * What went well (what goals did you meet?) I learned all the basics
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?) I wanted to finish the rocket project early but it took longer but it requires more time
@@ -66,8 +66,8 @@
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece?
-* 1. it is okay to fail, as long as you keep trying. don't lose your grit!
-*  How does this think piece relate to access code?
+*1. it is okay to fail, as long as you keep trying. don't lose your grit!
+*How does this think piece relate to access code?
 *2. In access code there might be moments  where you will get frustrated, and nothing might seem to work. Don't give up, stay confident and motivated. keep pushing towards your goal. You will get there. 
 ### TODOs
 
