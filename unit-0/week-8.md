@@ -7,11 +7,13 @@ Retrospective
 
 Rosmary Fermin
 
-Last week’s goal - 
-What went well (what goals did you meet?) - 
-What could have gone better (what were some challenges you faced? Did you overcome them? How?) -
-What is your goal for next week? - 
-What do you need help with? (peers sign up to help if they can) - 
+Last week’s goal - Understand how to use android studio to implement android program
+
+What went well (what goals did you meet?) - I was able to complete and understand the first android studio exercise
+What could have gone better (what were some challenges you faced? Did you overcome them? How?) - Everything was a challenge. 
+What is your goal for next week? - to complete any missed exercises for unit 1
+What do you need help with? (peers sign up to help if they can) - I need help with completing exercises
+
 
 Janneisy Vidals
 
@@ -23,19 +25,22 @@ What do you need help with? (peers sign up to help if they can)
 
 Abass Bayo-awoyemi
 
-Last week’s goal - 
-What went well (what goals did you meet?) - 
-What could have gone better (what were some challenges you faced? Did you overcome them? How?) - 
-What is your goal for next week? - 
-What do you need help with? (peers sign up to help if they can): 
+Last week’s goal -Understand Android project structure and more about abstraction and interfaces
+
+What went well (what goals did you meet?) - I have a good grasp of interfaces and how hierarchy of classes works.
+
+What could have gone better (what were some challenges you faced? Did you overcome them? How?) -   Everything
+What is your goal for next week? - Not feel lost.
+
+What do you need help with? (peers sign up to help if they can): Generics
 
 Dison Ruan
 
-Last week’s goal - 
-What went well (what goals did you meet?) - 
-What could have gone better (what were some challenges you faced? Did you overcome them? How?) - 
-What is your goal for next week? - 
-What do you need help with? (peers sign up to help if they can) - 
+Last week’s goal - finish api and headfirst by Saturday night
+What went well (what goals did you meet?) - i did it!
+What could have gone better (what were some challenges you faced? Did you overcome them? How?) -  little sleep
+What is your goal for next week? - finish the new boston android tutotiral and drug’s android tutorial
+What do you need help with? (peers sign up to help if they can) - Android
 
 
 Pooja Pasawala
